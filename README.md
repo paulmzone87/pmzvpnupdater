@@ -1,0 +1,2 @@
+# pmzvpnupdater
+trusted vpn
